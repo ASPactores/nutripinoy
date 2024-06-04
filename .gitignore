@@ -1,0 +1,4 @@
+model_training/image_data
+__pycache__/
+resnet_model.h5
+.env
